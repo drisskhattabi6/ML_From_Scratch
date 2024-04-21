@@ -5,4 +5,4 @@ This repo contains my implementation of Machine Learning Algorithms From Scratch
 
 => For each Algorithm in this repo, **this is an example using the implemented algorithm**.
 
-![img.png](Machine Learning)
+![img.jpg](Machine Learning img)
