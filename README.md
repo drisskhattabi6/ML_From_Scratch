@@ -13,6 +13,27 @@ This repo contains my implementation of Machine Learning Algorithms From Scratch
 
 | # | Algorithm Name | Source |
 |:---:|:--------------------------:|:-----------:|
+| 01 | Random Forest (RF) | [Source](https://github.com/drisskhattabi6/ML_From_Scratch/tree/main/Random%20Forest%20from%20scratch) |
+| 01 | Artificial Neural Network (ANN) | [Source](https://github.com/drisskhattabi6/ML_From_Scratch/tree/main/ANN%20From%20Scratch) |
+| 01 | Decision Tree (CART) | [Source](https://github.com/drisskhattabi6/ML_From_Scratch/tree/main/Decision%20Tree%20from%20scratch) |
+| 01 | K-Nearest Neighbor (KNN) | [Source](https://github.com/drisskhattabi6/ML_From_Scratch/tree/main/KNN%20from%20Scratch) |
 | 01 | Random Forest | [Source](https://github.com/drisskhattabi6/ML_From_Scratch/tree/main/Random%20Forest%20from%20scratch) |
+
+
+-------------
+
+## UnSupervised Learning :
+
+| # | Algorithm Name | Source |
+|:---:|:--------------------------:|:-----------:|
+| 01 | Random Forest | [Source](https://github.com/drisskhattabi6/ML_From_Scratch/tree/main/Random%20Forest%20from%20scratch) |
+
+
+-------------
+
+## Reinforcement Learning :
+
+| # | Algorithm Name | Source |
+|:---:|:--------------------------:|:-----------:|
 
 
